@@ -11,15 +11,16 @@ The TMC is a Desktop app for **Windows** to be made with **GO** lang , its main 
 Building a robust and very fast Desktop app ,easy to use and has a nice looking **(modern UI)**
 
 ### Main Fontionalities
-
-**Task managment**
+**1 - Task managment**
 * look at the consumption for each running process
 * live scaning for running processes
 * Kill a running process by his name
-**Cleaner**
+
+**2 - Cleaner**
 * Scan for Tmp, junk and dump files 
 * Cleaning Tmp, junk and dump files
-**Settings**
+
+**3 - Settings**
 * Settinng a scheduler to clean
 
 ### Features 
